@@ -13,6 +13,10 @@
             <name>kerith</name>
         </developer>
     </developers>
+    <modules>
+        <module>web-demo</module>
+        <module>falcon-service-demo</module>
+    </modules>
     <properties>
         <mvn.host>http://192.168.12.135:8081</mvn.host>
     </properties>
